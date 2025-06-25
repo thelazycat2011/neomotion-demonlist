@@ -8,5 +8,11 @@
     "percentToQualify": "82",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "FlyingFish9",
+            "link": "https://www.youtube.com/watch?v=jptwzvMz_Rw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
