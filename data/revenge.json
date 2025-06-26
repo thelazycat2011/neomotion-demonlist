@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=jptwzvMz_Rw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Cyclic",
+            "link": "https://youtu.be/Yq-roQWnpWI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Riot",
+            "link": "https://youtu.be/Hp5g_lMmhDI",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
