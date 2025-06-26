@@ -8,6 +8,23 @@
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
-        
+        {
+            "user": "FlyingFish9",
+            "link": "https://www.youtube.com/watch?v=aaVCEs0J6P0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Riot",
+            "link": "https://youtu.be/AUST80ay9Zc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cyclic",
+            "link": "https://youtu.be/JxG6Hy7zVoY",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
