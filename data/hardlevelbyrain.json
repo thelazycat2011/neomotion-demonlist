@@ -9,10 +9,10 @@
     "password": "No Password",
     "records": [
         {
-        "user": "riot"
-        "link: "youtu.be/-4ulz73ycYQ?si=M98bhX8W_bjtTs_r"
-        "percent": 100,
-        "hz": 60
-    }
-]
+            "user": "riot"
+            "link: "youtu.be/-4ulz73ycYQ?si=M98bhX8W_bjtTs_r"
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
