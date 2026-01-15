@@ -13,6 +13,12 @@
             "link": "https://youtu.be/FoOYL6bgpV8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Riot",
+            "link": "https://www.youtube.com/watch?v=l2Rmz0Ye6j0",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
