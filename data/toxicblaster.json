@@ -8,6 +8,11 @@
     "percentToQualify": "69",
     "password": "No Password",
     "records": [
-
+        {
+            "user": "Riot",
+            "link": "https://www.youtube.com/watch?v=b6UgE81L5eg",
+            "percent": 100,
+            "hz": 75
+        }
     ]
 }
