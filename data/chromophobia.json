@@ -8,6 +8,11 @@
     "percentToQualify": "70",
     "password": "No Password",
     "records": [
-
+        {
+            "user": "Rain",
+            "link": "https://youtu.be/FoOYL6bgpV8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
