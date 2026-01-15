@@ -8,6 +8,17 @@
     "percentToQualify": "58",
     "password": "212121",
     "records": [
-          
+        {
+            "user": "yuri",
+            "link": "https://file.garden/aUYPUVAKvQxCBZCO/Geometry%20Dash%202026-01-06%2022-29-59%20-%20Trim.mp4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Andromeda",
+            "link": "https://discord.com/channels/1345235313995284602/1460437521115644182/1460437521115644182",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

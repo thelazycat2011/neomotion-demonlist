@@ -19,6 +19,12 @@
         "link": "https://m.youtube.com/watch?v=Fzl3bYtCcIE",
         "percent": 100,
         "hz": 60
+        },
+        {
+            "user": "yuri",
+            "link": "https://discord.com/channels/1345235313995284602/1454586105620856914/1454586105620856914",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
